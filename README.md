@@ -1,12 +1,22 @@
 - 👋 Hi, I’m @gabmourare
-- 👀 I’m interested in games,reading, back-end web development and cats.
-- 💞️ I’m looking to collaborate on web based projects.
-- 📫 How to reach me ...
+How to reach me:
 gabriel.mourare@protonmail.com
 
-I got experience with Javascript, Node, Express and MongoDB
+This is my personal repository where I upload a few study projects to practice my programming skills.
 
-<!---
-IdoLongbeard/IdoLongbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What have I learned so far? 
+
+* Programming logic;
+* JavaScript and Node.Js;
+* How to create an API with Node;
+* How to create an API with C#;
+* Styling front-end using Bootstrap and DOM manipulation;
+* Object Oriented Programming;
+* Understanding Project Structures, such as MVC;
+* Managing Relational and Non-Relational DataBases;
+* SQL Language;
+* MongoDB;
+* Setting Up a simple server with NodeJs.
+
+
+
